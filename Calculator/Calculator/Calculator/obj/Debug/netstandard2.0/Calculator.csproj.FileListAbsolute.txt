@@ -1,0 +1,14 @@
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\ref\Calculator.dll
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.AssemblyReference.cache
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
+E:\all projects\xamarin proj\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
